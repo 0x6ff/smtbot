@@ -1,4 +1,7 @@
 {
-  "name": "my-awesome-package",
+  "name": "smt-bot",
+  "Description": "smt-bot"
   "version": "1.0.0"
+"engines": {
+"Node": "12.x"
 }
