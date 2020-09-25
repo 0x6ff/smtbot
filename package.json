@@ -1,7 +1,6 @@
 {
   "name": "smt-bot",
-  "Description": "smt-bot"
-  "version": "1.0.0"
+  "Description": "smt-bot",
   },
   "main": "app.js",
     "scripts": {
