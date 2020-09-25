@@ -2,6 +2,8 @@
   "name": "smt-bot", 
   "Description": "smt-bot",
   "main": "app.js",
+  "engines": {
+    "node": "12.x"
     "scripts": {
     "start": "node app.js"
     }
