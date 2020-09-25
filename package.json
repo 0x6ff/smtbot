@@ -1,6 +1,6 @@
 {
-  "name": "smt-bot",
-  "Description": "smt-bot"
+  "name": "smt-bot", {
+  "Description": "smt-bot",
   "main": "app.js",
     "scripts": {
     "start": "node app.js"
